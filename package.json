@@ -9,6 +9,8 @@
     "dependencies": {
         "body-parser": "^1.18.3",
         "express": "^4.16.4",
+        "mysql": "^2.16.0",
+        "save": "^2.3.3",
         "yarn": "^1.13.0"
     },
     "devDependencies": {
